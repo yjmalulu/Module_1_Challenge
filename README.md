@@ -11,6 +11,9 @@
 ## What is the prognosis for this company? Where do they expect to be in the future?
 
 [code](code)
+
 [data](data)
+
 [images](images)
+
 [references](references)
