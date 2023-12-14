@@ -17,25 +17,25 @@ On April 14, 2021, Coinbase went public via a direct stock listing and was liste
 ## Business Activities
 Coinbase is building the cryptoeconomy – a more fair, accessible, efficient, and transparent financial system enabled by crypto.Today, they offer a trusted and easy-to-use platform for accessing the broader cryptoeconomy.
 
-Coinbase ecosystem combines retail customers, institutions, and other partners (like merchants and developers).The tech platform focuses on cybersecurity, compliance, and expansion of Blockchain protocols over time
+Coinbase ecosystem combines retail customers, institutions, and other partners (like merchants and developers).The tech platform focuses on cybersecurity, compliance, and expansion of Blockchain protocols over time.
+![Coinbase Product Portfolio overview](images/business5b1.jpg)
 
 In 2021, Coinbase raked in $7.8 billion in total revenue while clearing $3.6 billion in net profit. For Q1 2022, revenue stood at $1.17 billion.As of 2023, the company boasts a valuation of around $18.6 billion and an enterprise value of approximately $16.5 billion. 
 
 One of the critical issues that former crypto exchange platforms had encountered were all related to security, scalability, and regulatory compliance, all things that Coinbase has been able to successfully address so far.
 
-Coinbase’s technological model is based on its end-to-end financial infrastructure, where customers can buy dozens of crypto assets, secure them and find various options to store these assets.
-Coinbase focuses on providing a stable and secure platform for trading and storing crypto assets. Its technological infrastructure addresses issues of security, scalability, and regulatory compliance.
-
+Coinbase focuses on providing a stable and secure platform for trading and storing crypto assets. Its technological infrastructure addresses issues of security, scalability, and regulatory compliance. It's technological model is based on its end-to-end financial infrastructure, where customers can buy dozens of crypto assets, secure them and find various options to store these assets.
+![Coinbase Business Model](images/coinbase-business-model.webp)
   
 ## Landscape
 
 Cryptocurrency is electronic money that gets stored in e-wallets or computer files. Plus, it can be transferred and tracked using blockchain technology. 
 
 The crypto space is bustling with newfound interest. It has become more popular globally. However, since cryptocurrencies are still the new kid on the block, there is much to unravel and learn about them. Here are the major trends and innovations of cryptocurrency over next few year.
-1. DEFI (decentralized fiance)   DeFi applications, offer a range of financial services, including lending, borrowing, trading, and investing. These services are facilitated by smart contracts, which automate the process of borrowing and lending money.
-2. NFT (non-fungible tokens)NFTs are digital assets representing ownership of a unique item or piece of content, such as artwork, music, or even tweets. Unlike other cryptocurrencies like Bitcoin or Ethereum, which are fungible (meaning that they can be exchanged for one another), NFTs are unique and cannot be exchanged for another asset on a one-to-one basis.
-3. STABLECOINS Stablecoins are a type of cryptocurrency designed to maintain a stable value, usually pegged to a traditional asset such as the US dollar or gold. They offer the benefits of cryptocurrencies, such as fast and borderless transactions, but without the volatility that comes with other cryptocurrencies, such as Bitcoin or Ethereum.
-4. CENTRAL BANK DIGITAL CURRENCIES (CBDCS) CBDCs are also an integral part of trends in cryptocurrency. They are designed to offer the same advantages as cryptocurrencies such as Bitcoin and Ethereum, but with the added benefit of being backed by a government or central bank. This makes them more stable and less volatile than other cryptocurrencies and could make them a more attractive option for businesses and consumers.
+1. DEFI (decentralized fiance). DeFi applications, offer a range of financial services, including lending, borrowing, trading, and investing. These services are facilitated by smart contracts, which automate the process of borrowing and lending money.
+2. NFT (non-fungible tokens). NFTs are digital assets representing ownership of a unique item or piece of content, such as artwork, music, or even tweets. Unlike other cryptocurrencies like Bitcoin or Ethereum, which are fungible (meaning that they can be exchanged for one another), NFTs are unique and cannot be exchanged for another asset on a one-to-one basis.
+3. STABLECOINS. Stablecoins are a type of cryptocurrency designed to maintain a stable value, usually pegged to a traditional asset such as the US dollar or gold. They offer the benefits of cryptocurrencies, such as fast and borderless transactions, but without the volatility that comes with other cryptocurrencies, such as Bitcoin or Ethereum.
+4. CENTRAL BANK DIGITAL CURRENCIES (CBDCS). CBDCs are also an integral part of trends in cryptocurrency. They are designed to offer the same advantages as cryptocurrencies such as Bitcoin and Ethereum, but with the added benefit of being backed by a government or central bank. This makes them more stable and less volatile than other cryptocurrencies and could make them a more attractive option for businesses and consumers.
 
 The 10 largest crypto companies in the world nowadays are:
 1. Binance
@@ -49,8 +49,6 @@ The 10 largest crypto companies in the world nowadays are:
 9. Uniswap
 10. Chainalysis
 
-
-
 ## Results
 
 Coinbase has had a significant and multifaceted impact on the cryptocurrency industry. While its contributions to accessibility, infrastructure development, and regulatory engagement. It is important to mention that coinbase has actively engaged with regulators and policymakers, advocating for sensible regulations that protect consumers while fostering innovation. This has helped shape the regulatory landscape for cryptocurrency and legitimize its place within the financial system.
@@ -60,6 +58,7 @@ There are three core metrics that crypto companies use to measure success:
 1. User Acquisition and Engagement
 2. Revenue and Financial Performance
 3. Institutional Adoption
+
 Impacted significantly by the broader market downturn in crypto, coinbase performed not very well in the past two years.
 User Acquisition and Engagement: User growth has slowed down compared to its peak in 2021, but MTUs remain relatively stable. Trading volume has declined significantly.
 Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
@@ -79,9 +78,16 @@ Lower transfer fees may have there pros:
 
 The crypto exchange space is highly competitive, with numerous established and emerging platforms vying for market share. Coinbase is a leading crypto exchange with strong recognition and a large user base. However, there's room for improvement innovating, improving user experience, and offering more competitive fees.By continuously innovating, improving user experience, and offering more competitive fees, Coinbase can stay ahead in the fierce competition within the crypto exchange landscape.
 
-[code](code)
-
-[data](data)
+## References
+1. https://investor.coinbase.com/home/
+2. https://cointelegraph.com/learn/who-is-brian-armstrong
+3. https://techreport.com/statistics/coinbase-user-statistics/#:~:text=Key%20Coinbase%20User%20Statistics,-Coinbase%20Global%20Inc&text=The%20crypto%20exchange%20has%20a,the%20entire%20crypto%20market%20capitalization.
+4. https://www.axon.dev/blog/new-trends-in-cryptocurrency-for-2023-2025#:~:text=New%20trends%20in%20cryptocurrency%2C%20such,of%20borrowing%20and%20lending%20money.
+5. https://history-computer.com/10-largest-crypto-companies/
+6. https://fourweekmba.com/coinbase-business-model/#:~:text=As%20a%20growth%20strategy%2C%20Coinbase,digital%20channels%20for%20continuous%20growth.
+7. https://fourweekmba.com/coinbase-business-model/#:~:text=As%20a%20growth%20strategy%2C%20Coinbase,digital%20channels%20for%20continuous%20growth.
+8. https://cointelegraph.com/learn/binance-vs-coinbase-how-do-they-compare
+9. https://www.nerdwallet.com/reviews/investing/brokers/coinbase
 
 [images](images)
 
