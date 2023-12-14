@@ -1,4 +1,4 @@
-# Fintech_Case_Study
+# Coinbase Case Study
 ## Overview and Origin
 
 Coinbase is a digital platform for trading and storing cryptocurrencies. It makes money via transaction fees, subscriptions, commissions earned on custodial funds, and interests earned on these. Coinbase took its name from the content of the “input” of a generation transaction that has no parent transaction outputs, and it is called “coinbase.” In simple words, it’s the first transaction of a new block.
@@ -51,19 +51,26 @@ The 10 largest crypto companies in the world nowadays are:
 
 
 ## Results
-* What has been the business impact of this company so far?
 
+Coinbase has had a significant and multifaceted impact on the cryptocurrency industry. While its contributions to accessibility, infrastructure development, and regulatory engagement. It is important to mention that coinbase has actively engaged with regulators and policymakers, advocating for sensible regulations that protect consumers while fostering innovation. This has helped shape the regulatory landscape for cryptocurrency and legitimize its place within the financial system.
+But there are also many concerns regarding its centralized nature, environmental impact, and market dependence.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+There are three core metrics that crypto companies use to measure success:
+1. User Acquisition and Engagement
+2. Revenue and Financial Performance
+3. Institutional Adoption
+Impacted significantly by the broader market downturn in crypto, coinbase performed not very well in the past two years.
+User Acquisition and Engagement: User growth has slowed down compared to its peak in 2021, but MTUs remain relatively stable. Trading volume has declined significantly.
+Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
+Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
 
-
-Binance is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. It is indeed Coinbase’s direct competitor both in terms of trading volumes and market capitalization. 
+Coinbase's direct competitoris Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
 Binance has earned a reputation as an exchange that sometimes has carried out some business activities before asking for permission, which has caused further regulatory issues. Acting without too many restrictions certainly favors more rapid innovation, which the exchange has shown over time and other platforms. However, it has also caused closer scrutiny from authorities. 
 However, Coinbase has primarily succeeded in staying on the right path on the regulatory side. Coinbase appears more secure, considering it never had significant attacks since its inception and more transparent about its steps to keep customers’ funds safe.
   
 ## Recommendations
 
-Fees. Coinbase has a lot of ways you can pay for crypto, and they can carry different fees that are at times hard to understand. While Coinbase discloses fees to users before completing a transaction, they are difficult to look up ahead of time. This can make life difficult for people who are choosing an exchange for the first time and who are sensitive to fees. And overall, some competitors do charge less. 
+Coinbase's transaction fees are the most criticized aspect of the company.Coinbase has a lot of ways you can pay for crypto, and they can carry different fees that are at times hard to understand. While Coinbase discloses fees to users before completing a transaction, they are difficult to look up ahead of time. This can make life difficult for people who are choosing an exchange for the first time and who are sensitive to fees. And overall, some competitors do charge less. 
 
 * Why do you think that offering this product or sevice would benefit the company?
 * What technologies would this additional product or sevice utilize?
