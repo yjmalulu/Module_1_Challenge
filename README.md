@@ -71,12 +71,12 @@ However, Coinbase has primarily succeeded in staying on the right path on the re
 ## Recommendations
 
 Coinbase's transaction fees are the most criticized aspect of the company.Coinbase has a lot of ways you can pay for crypto, and they can carry different fees that are at times hard to understand. While Coinbase discloses fees to users before completing a transaction, they are difficult to look up ahead of time. This can make life difficult for people who are choosing an exchange for the first time and who are sensitive to fees. And overall, some competitors do charge less. 
+Lower transfer fees may have there pros:
+1. Increased competition: Lower fees would make Coinbase more competitive with other crypto exchanges, potentially attracting new users who are price-sensitive.
+2. Higher trading volume: Lower fees could incentivize users to trade more frequently, leading to increased trading volume and revenue for Coinbase.
+3. Improved user experience: High fees can be a barrier to entry for new users and a frustration for existing ones. Lowering fees could create a more positive user experience and attract new customers.
 
-* Why do you think that offering this product or sevice would benefit the company?
-* What technologies would this additional product or sevice utilize?
-* Why are these technologies appropriate for your solution?
-
-## What is the prognosis for this company? Where do they expect to be in the future?
+The crypto exchange space is highly competitive, with numerous established and emerging platforms vying for market share. Coinbase is a leading crypto exchange with strong recognition and a large user base. However, there's room for improvement innovating, improving user experience, and offering more competitive fees.By continuously innovating, improving user experience, and offering more competitive fees, Coinbase can stay ahead in the fierce competition within the crypto exchange landscape.
 
 [code](code)
 
