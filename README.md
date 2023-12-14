@@ -72,18 +72,24 @@ There are three core metrics that crypto companies use to measure success:
 2. Revenue and Financial Performance
 3. Institutional Adoption
 
-Impacted significantly by the broader market downturn in crypto, coinbase performed not very well in the past two years.
+Impacted significantly by the broader market downturn in crypto, Coinbase performed not very well in the past two years.
+
 User Acquisition and Engagement: User growth has slowed down compared to its peak in 2021, but MTUs remain relatively stable. Trading volume has declined significantly.
+
 Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
+
 Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
 
 Coinbase's direct competitor is Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
+
 Binance has earned a reputation as an exchange that sometimes has carried out some business activities before asking for permission, which has caused further regulatory issues. Acting without too many restrictions certainly favors more rapid innovation, which the exchange has shown over time and other platforms. However, it has also caused closer scrutiny from authorities. 
+
 However, Coinbase has primarily succeeded in staying on the right path on the regulatory side. Coinbase appears more secure, considering it never had significant attacks since its inception and more transparent about its steps to keep customers’ funds safe.
   
 ## Recommendations
 
 Coinbase's transaction fees are the most criticized aspect of the company.Coinbase has a lot of ways you can pay for crypto, and they can carry different fees that are at times hard to understand. While Coinbase discloses fees to users before completing a transaction, they are difficult to look up ahead of time. This can make life difficult for people who are choosing an exchange for the first time and who are sensitive to fees. And overall, some competitors do charge less. 
+
 Lower transfer fees may have there pros:
 1. Increased competition: Lower fees would make Coinbase more competitive with other crypto exchanges, potentially attracting new users who are price-sensitive.
 2. Higher trading volume: Lower fees could incentivize users to trade more frequently, leading to increased trading volume and revenue for Coinbase.
