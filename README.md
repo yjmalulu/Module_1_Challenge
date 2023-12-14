@@ -20,6 +20,19 @@ Coinbase is building the cryptoeconomy – a more fair, accessible, efficient, a
 Coinbase ecosystem combines retail customers, institutions, and other partners (like merchants and developers).The tech platform focuses on cybersecurity, compliance, and expansion of Blockchain protocols over time.
 ![Coinbase Product Portfolio overview](images/business5b1.jpg)
 
+Here are some core user statistics of Coinbase:
+1. Coinbase Global Inc. had 56 million verified users in August 2023 and could reach 150 million verified users before the end of 2023.
+2. Every month, about 6.1 million users at Coinbase execute at least one transaction.
+3. The crypto exchange has a total valuation of $18 billion in 2022.
+4. Coinbase generated a revenue of $3.1 billion in 2022.
+5. It recorded an annual loss of $2.6 billion in 2022.
+6. Coinbase holds 11.3% of the entire crypto market capitalization.
+7. Coinbase Global has over 3,400 employees.
+8. It recorded about 9 million active users who performed more than one transaction in a month in 2022.
+9. An average of the total number of Coinbase users have crypto assets that are worth more than $5,000.
+10. The company gets 86% of its total generated revenue from transaction fees.
+![Number of users at Coinbase](images/Number-of-Users-at-Coinbase-768x421.png.webp)
+
 In 2021, Coinbase raked in $7.8 billion in total revenue while clearing $3.6 billion in net profit. For Q1 2022, revenue stood at $1.17 billion.As of 2023, the company boasts a valuation of around $18.6 billion and an enterprise value of approximately $16.5 billion. 
 
 One of the critical issues that former crypto exchange platforms had encountered were all related to security, scalability, and regulatory compliance, all things that Coinbase has been able to successfully address so far.
@@ -64,7 +77,7 @@ User Acquisition and Engagement: User growth has slowed down compared to its pea
 Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
 Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
 
-Coinbase's direct competitoris Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
+Coinbase's direct competitor is Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
 Binance has earned a reputation as an exchange that sometimes has carried out some business activities before asking for permission, which has caused further regulatory issues. Acting without too many restrictions certainly favors more rapid innovation, which the exchange has shown over time and other platforms. However, it has also caused closer scrutiny from authorities. 
 However, Coinbase has primarily succeeded in staying on the right path on the regulatory side. Coinbase appears more secure, considering it never had significant attacks since its inception and more transparent about its steps to keep customers’ funds safe.
   
@@ -80,15 +93,12 @@ The crypto exchange space is highly competitive, with numerous established and e
 
 ## References
 1. https://investor.coinbase.com/home/
-2. https://cointelegraph.com/learn/who-is-brian-armstrong
-3. https://techreport.com/statistics/coinbase-user-statistics/#:~:text=Key%20Coinbase%20User%20Statistics,-Coinbase%20Global%20Inc&text=The%20crypto%20exchange%20has%20a,the%20entire%20crypto%20market%20capitalization.
-4. https://www.axon.dev/blog/new-trends-in-cryptocurrency-for-2023-2025#:~:text=New%20trends%20in%20cryptocurrency%2C%20such,of%20borrowing%20and%20lending%20money.
-5. https://history-computer.com/10-largest-crypto-companies/
-6. https://fourweekmba.com/coinbase-business-model/#:~:text=As%20a%20growth%20strategy%2C%20Coinbase,digital%20channels%20for%20continuous%20growth.
-7. https://fourweekmba.com/coinbase-business-model/#:~:text=As%20a%20growth%20strategy%2C%20Coinbase,digital%20channels%20for%20continuous%20growth.
-8. https://cointelegraph.com/learn/binance-vs-coinbase-how-do-they-compare
-9. https://www.nerdwallet.com/reviews/investing/brokers/coinbase
+2. https://cointelegraph.com/learn/who-is-brian-armstrong (How coinbase was found by Brian Armstrong)
+3. https://techreport.com/statistics/coinbase-user-statistics/#:~:text=Key%20Coinbase%20User%20Statistics,-Coinbase%20Global%20Inc&text=The%20crypto%20exchange%20has%20a,the%20entire%20crypto%20market%20capitalization. (Key Coinbase User Statistics)
+4. https://www.axon.dev/blog/new-trends-in-cryptocurrency-for-2023-2025#:~:text=New%20trends%20in%20cryptocurrency%2C%20such,of%20borrowing%20and%20lending%20money. (New trends in cryptocurrency for 2023-2025)
+5. https://history-computer.com/10-largest-crypto-companies/ (The 10 Largest Crypto Companies In The World)
+6. https://fourweekmba.com/coinbase-business-model/#:~:text=As%20a%20growth%20strategy%2C%20Coinbase,digital%20channels%20for%20continuous%20growth. (Coinbase business model and Product portfolio overview)
+7. https://cointelegraph.com/learn/binance-vs-coinbase-how-do-they-compare (Compare between Biance and Coinbase)
+8. https://www.nerdwallet.com/reviews/investing/brokers/coinbase (Coinbase Review 2023: Pros, Cons and How It Compares)
 
 [images](images)
-
-[references](references)
