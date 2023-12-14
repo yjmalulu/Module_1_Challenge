@@ -76,11 +76,11 @@ Impacted significantly by the broader market downturn in crypto, Coinbase perfor
 
 User Acquisition and Engagement: User growth has slowed down compared to its peak in 2021, but MTUs remain relatively stable. Trading volume has declined significantly.
 
-Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
+1. Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
 
-Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
+2. Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
 
-Coinbase's direct competitor is Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
+3. Coinbase's direct competitor is Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
 
 Binance has earned a reputation as an exchange that sometimes has carried out some business activities before asking for permission, which has caused further regulatory issues. Acting without too many restrictions certainly favors more rapid innovation, which the exchange has shown over time and other platforms. However, it has also caused closer scrutiny from authorities. 
 
