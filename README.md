@@ -1,30 +1,17 @@
 # Fintech_Case_Study
 ## Overview and Origin
 
-* What is the name of the company?
-Coinbase
-Coinbase is a digital platform for trading and storing cryptocurrencies. It makes money via transaction fees, subscriptions, commissions earned on custodial funds, and interests earned on these.
-Coinbase took its name from the content of the “input” of a generation transaction that has no parent transaction outputs, and it is called “coinbase.” In simple words, it’s the first transaction of a new block.
+Coinbase is a digital platform for trading and storing cryptocurrencies. It makes money via transaction fees, subscriptions, commissions earned on custodial funds, and interests earned on these. Coinbase took its name from the content of the “input” of a generation transaction that has no parent transaction outputs, and it is called “coinbase.” In simple words, it’s the first transaction of a new block.
 
-* When was the company incorporated?
 Coinbase is building the cryptoeconomy – a more fair, accessible, efficient, and transparent financial system enabled by crypto. The company started in 2012 with the radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin. Today, Coinbase offers a trusted and easy-to-use platform for accessing the broader cryptoeconomy.
 
-* Who are the founders of the company?
-Brian Armstrong, Fred Ehrsam
+Coinbase was founded in June 2012 by Brian Armstrong, a former Airbnb engineer. While at Airbnb, he saw the difficulties of sending money to South America. He began working weekends and nights to write code in Ruby and JavaScript to buy and store cryptocoins. Armstrong applied for Y Combinator incubation but was told to find a co-founder to proceed and had only three days to find one. He posted on Hacker News for a co-founder explaining his mission, which went viral and garnered massive interest on Reddit as well. This is when Armstrong met Ehrsam, a Goldman Sachs trader. The duo joined hands and obtained a $150,000 funding infusion from the startup incubator program at Y Combinator. 
 
-* How did the idea for the company (or project) come about?
-Coinbase funding and valuation
-Armstrong and Ehram started raising funds to build Coinbase and, in May 2013, raised a $5 million Series A investment from New-York based venture capital firm Union Square Ventures, with Fred Wilson serving as the lead investor. 
-
-Wilson, co-founder of Union Square Ventures, is well known for his earlier investments in successful companies including Twitter, Tumblr, Zynga, Foursquare, Etsy and more. 
+Armstrong and Ehram started raising funds to build Coinbase and, in May 2013, raised a $5 million Series A investment from New-York based venture capital firm Union Square Ventures, with Fred Wilson serving as the lead investor. Wilson, co-founder of Union Square Ventures, is well known for his earlier investments in successful companies including Twitter, Tumblr, Zynga, Foursquare, Etsy and more. 
 
 In December 2013, Coinbase raised another $25 million from Andreessen Horowitz, Ribbit Capital and other investors. Presently, Coinbase has 76 investors and has raised a total of $498.7 million in funding over 18 rounds. Ehrsam left the company in 2017 with a 6% stake but still serves on the board of directors and was part of the company’s audit committee before its April 2021 public offering.
-Coinbase, under Brian Armstrong’s leadership, has been active in investing in other companies and has made 23 investments. The most recent investment was on Feb. 15, 2023 in crypto market index fund Alongside, which raised $11 million total in the round. 
 
 On April 14, 2021, Coinbase went public via a direct stock listing and was listed on the NASDAQ as COIN. Coinbase opened at $381 per share, valuing the company at $99.6 billion, and briefly touched a market capitalization of $100 billion, which was 10 times higher than Coinbase’s last private valuation. The valuation rivaled the likes of Facebook and Airbnb when they went public.
-
-Brian Armstrong owns 19% of Coinbase shares. According to Forbes, as of May 2022, Armstrong’s net worth hovers close to $2.4 billion, making him a crypto billionaire American CEO.
-
 
 * HOw is the company funded? How much funding have they received?
 
