@@ -1,5 +1,6 @@
 # Coinbase Case Study
 ## Overview and Origin
+![Coinbase](images/coinbase.png)
 
 Coinbase is a digital platform for trading and storing cryptocurrencies. It makes money via transaction fees, subscriptions, commissions earned on custodial funds, and interests earned on these. Coinbase took its name from the content of the “input” of a generation transaction that has no parent transaction outputs, and it is called “coinbase.” In simple words, it’s the first transaction of a new block.
 
