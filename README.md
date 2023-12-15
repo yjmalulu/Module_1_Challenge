@@ -20,7 +20,7 @@ Coinbase is building the cryptoeconomy – a more fair, accessible, efficient, a
 Coinbase ecosystem combines retail customers, institutions, and other partners (like merchants and developers).The tech platform focuses on cybersecurity, compliance, and expansion of Blockchain protocols over time.
 ![Coinbase Product Portfolio overview](images/business5b1.jpg)
 
-Here are some core user statistics of Coinbase:
+Coinbase's user base has seen rapid growth since its founding. Here are some core user statistics of Coinbase:
 1. Coinbase Global Inc. had 56 million verified users in August 2023 and could reach 150 million verified users before the end of 2023.
 2. Every month, about 6.1 million users at Coinbase execute at least one transaction.
 3. The crypto exchange has a total valuation of $18 billion in 2022.
@@ -74,13 +74,13 @@ There are three core metrics that crypto companies use to measure success:
 
 Impacted significantly by the broader market downturn in crypto, Coinbase performed not very well in the past two years.
 
-User Acquisition and Engagement: User growth has slowed down compared to its peak in 2021, but MTUs remain relatively stable. Trading volume has declined significantly.
+1. User Acquisition and Engagement: User growth has slowed down compared to its peak in 2021, but MTUs remain relatively stable. Trading volume has declined significantly.
 
-1. Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
+2. Revenue and Financial Performance: Transaction revenue has plummeted due to lower trading volume, impacting profitability. However, subscription and services revenue has seen some growth.
 
-2. Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
+3. Institutional Adoption: Assets on platform have increased, suggesting continued trust from institutional clients. However, institutional trading volume hasn't kept pace with retail volume, indicating a potential slowdown in their activity.
 
-3. Coinbase's direct competitor is Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
+Coinbase's direct competitor is Biance, both in terms of trading volumes and market capitalization. Biancde is currently the world’s largest exchange in terms of the daily trading volume of cryptocurrencies. 
 
 Binance has earned a reputation as an exchange that sometimes has carried out some business activities before asking for permission, which has caused further regulatory issues. Acting without too many restrictions certainly favors more rapid innovation, which the exchange has shown over time and other platforms. However, it has also caused closer scrutiny from authorities. 
 
@@ -88,7 +88,7 @@ However, Coinbase has primarily succeeded in staying on the right path on the re
   
 ## Recommendations
 
-Coinbase's transaction fees are the most criticized aspect of the company.Coinbase has a lot of ways you can pay for crypto, and they can carry different fees that are at times hard to understand. While Coinbase discloses fees to users before completing a transaction, they are difficult to look up ahead of time. This can make life difficult for people who are choosing an exchange for the first time and who are sensitive to fees. And overall, some competitors do charge less. 
+Coinbase's transaction fees are the most criticized aspect of the company. Coinbase has a lot of ways you can pay for crypto, and they can carry different fees that are at times hard to understand. While Coinbase discloses fees to users before completing a transaction, they are difficult to look up ahead of time. This can make life difficult for people who are choosing an exchange for the first time and who are sensitive to fees. And overall, some competitors do charge less. 
 
 Lower transfer fees may have there pros:
 1. Increased competition: Lower fees would make Coinbase more competitive with other crypto exchanges, potentially attracting new users who are price-sensitive.
